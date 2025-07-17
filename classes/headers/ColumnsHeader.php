@@ -1,4 +1,5 @@
 <?php
+
 class ColumnsHeader extends HeaderBase {
 	public static function init($params, &$report) {
 		foreach($params['columns'] as $column=>$options) {
