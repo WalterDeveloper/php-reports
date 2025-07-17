@@ -1,4 +1,5 @@
 <?php
+
 class InfoHeader extends HeaderBase {
 	static $validation = array(
 		'name'=>array(
