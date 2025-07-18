@@ -1,4 +1,5 @@
 <?php
+
 class IncludeHeader extends HeaderBase {
 	static $validation = array(
 		'report'=>array(
