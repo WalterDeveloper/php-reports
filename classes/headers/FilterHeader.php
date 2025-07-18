@@ -1,4 +1,5 @@
 <?php
+
 class FilterHeader extends HeaderBase {
 	static $validation = array(
 		'column'=>array(
