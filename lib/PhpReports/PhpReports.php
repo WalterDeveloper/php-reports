@@ -1,5 +1,4 @@
 <?php
-
 class PhpReports {
 	public static $config;
 	public static $request;
