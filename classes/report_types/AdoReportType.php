@@ -1,4 +1,5 @@
 <?php
+
 class AdoReportType extends ReportTypeBase {
 	public static function init(&$report) {
 		$environments = PhpReports::$config['environments'];
